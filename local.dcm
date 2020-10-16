@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AT86RF212B-ZU
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-AT86RF212B-ZU_C77743.pdf
+$ENDCMP
+#
+$CMP BALUN_ATB2012-75011-T000
+F https://datasheet.lcsc.com/szlcsc/TDK-ATB2012-75011-T000_C76586.pdf
+$ENDCMP
+#
+#End Doc Library
